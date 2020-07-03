@@ -6,7 +6,7 @@ Features of Patient Billing System:
 1.	Login into the system
 2.	Registration of patient, admin and doctor
 3.  Listing of all patients along with the admit date and the amount due
-4.	Addition of tratment of a particular patient
+4.	Addition of treatment of a particular patient
 5.	Payment Process
 6.	Bill Generation
 7.	Change Password
